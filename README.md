@@ -1,4 +1,4 @@
-**Animal Crossing Project**
+**ANIMAL CROSSING PROJECT**
 
 **Overview**
 The Animal Crossing project is a Java-based simulation inspired by the popular Animal Crossing game. This application manages a virtual town, tracking the friendships among its animal inhabitants.
